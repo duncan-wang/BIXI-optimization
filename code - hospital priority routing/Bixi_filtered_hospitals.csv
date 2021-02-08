@@ -1,0 +1,59 @@
+Index,Code,name,latitude,longitude,Within_Region,Hospital
+10,6001,Métro Champ-de-Mars (Viger / Sanguinet),45.51035068,-73.55650842,TRUE,CHUM
+12,6003,Clark / Evans,45.51100667,-73.56760204,TRUE,None
+14,6005,Metcalfe / du Square-Dorchester,45.50020806,-73.57113786,TRUE,None
+16,6007,de l'Hôtel-de-Ville / Ste-Catherine,45.51166046,-73.5621357,TRUE,CHUM
+17,6008,Sanguinet / Ste-Catherine,45.51279686,-73.56146247,TRUE,CHUM
+20,6012,Métro St-Laurent (de Maisonneuve / St-Laurent),45.51066,-73.56497,TRUE,None
+21,6013,Sanguinet / de Maisonneuve,45.51340554,-73.56259435,TRUE,None
+28,6020,Sanguinet / Ontario,45.51476724,-73.56549114,TRUE,None
+29,6021,de l'Hôtel-de-Ville / Sherbrooke,45.51456467,-73.5684067,TRUE,None
+35,6027,de Maisonneuve / Mansfield (sud),45.50205386,-73.57346535,TRUE,None
+37,6031,de Maisonneuve / Robert-Bourassa,45.50426293,-73.57152343,TRUE,None
+38,6032,Métro Place-d'Armes (Viger / St-Urbain),45.50623,-73.55976,TRUE,None
+40,6035,Viger / Chenneville,45.50531167,-73.56089115,TRUE,None
+47,6042,de la Gauchetière / Robert-Bourassa,45.50060578,-73.56544822,TRUE,None
+48,6043,Square Victoria (Viger / du Square-Victoria),45.50206,-73.56295,TRUE,None
+50,6046,Métro Bonaventure (de la Gauchetière / de la Cathédrale),45.49831218,-73.56725603,TRUE,None
+51,6047,University / Prince-Arthur,45.50740168,-73.57844353,TRUE,Neuro
+57,6053,du Président-Kennedy / Jeanne-Mance,45.50820462,-73.5688144,TRUE,None
+58,6057,Peel / de la Gauchetiere,45.49771835,-73.56818005,TRUE,None
+60,6059,de la Cathédrale / René-Lévesque,45.49919121,-73.56942058,TRUE,None
+61,6060,Belmont / Robert-Bourassa,45.50136685,-73.56583714,TRUE,None
+62,6061,Mansfield / Ste-Catherine,45.50139871,-73.57178628,TRUE,None
+67,6066,McTavish / des Pins,45.5053055,-73.58100235,TRUE,None
+70,6070,Milton / University,45.5064484,-73.57634872,TRUE,Neuro
+71,6072,Metcalfe / de Maisonneuve,45.50171495,-73.57413054,TRUE,None
+72,6073,de Maisonneuve / Aylmer (ouest),45.50501,-73.57069,TRUE,None
+73,6075,University / des Pins,45.5082951,-73.58064294,TRUE,None
+75,6078,St-Alexandre / Ste-Catherine,45.50538226,-73.56763422,TRUE,None
+76,6079,Hutchison / Prince-Arthur,45.50975859,-73.57610732,TRUE,Neuro
+80,6083,Square Phillips,45.50373772,-73.56810629,TRUE,None
+114,6117,de Maisonneuve / Aylmer (est),45.50526304,-73.57048005,TRUE,None
+174,6180,St-Dominique / René-Lévesque,45.50941837,-73.56135786,TRUE,None
+196,6202,Ste-Famille / Sherbrooke,45.51007155,-73.57075229,TRUE,None
+197,6203,Aylmer / Sherbrooke,45.50658669,-73.57329905,TRUE,None
+198,6204,Milton / Durocher,45.50814096,-73.57492983,TRUE,Neuro
+199,6205,Milton / du Parc,45.50936143,-73.57386366,TRUE,None
+200,6206,Prince-Arthur / du Parc,45.51059,-73.57547,TRUE,Neuro
+201,6207,Ste-Famille / des Pins,45.51283175,-73.57688785,TRUE,None
+202,6208,Hutchison / des Pins,45.51069,-73.57805,TRUE,Neuro
+203,6209,Milton / Clark,45.51254135,-73.57067719,TRUE,None
+208,6214,Square St-Louis (du Square St-Louis / Laval),45.5160908,-73.57012868,TRUE,None
+209,6215,Metcalfe / St-Catherine,45.50083232,-73.57245952,TRUE,None
+212,6218,Prince-Arthur / St-Urbain,45.5125874,-73.57373893,TRUE,None
+316,6359,Ste-Catherine / St-Laurent,45.50981336,-73.56389523,TRUE,None
+361,6411,Clark / Prince-Arthur,45.51330257,-73.57296109,TRUE,None
+363,6413,Union / Cathcart,45.50355184,-73.56875539,TRUE,None
+426,6738,Union / René-Lévesque,45.50235036,-73.5665828,TRUE,None
+498,7033,Aylmer / Prince-Arthur,45.50856687,-73.57769787,TRUE,Neuro
+502,7037,Prince-Arthur / Ste-Famille,45.51163821,-73.57463479,TRUE,None
+503,7038,Guilbault / Clark,45.51410795,-73.57523024,TRUE,None
+506,7041,de Maisonneuve / Peel,45.50095055,-73.57457846,TRUE,None
+511,7046,de Maisonneuve / Mansfield (nord),45.50238608,-73.57333794,TRUE,None
+531,7066,St-Urbain / de la Gauchetière,45.50707813,-73.56139541,TRUE,None
+532,7067,City Councillors / du President-Kennedy,45.50625103,-73.57139066,TRUE,None
+534,7069,Jeanne-Mance / René-Lévesque,45.50637134,-73.564201,TRUE,None
+545,7080,du President-Kennedy / Union,45.50501115,-73.57202768,TRUE,None
+548,7083,Parc de Bullion (de Bullion / Prince-Arthur),45.51560426,-73.57213497,TRUE,None
+549,7084,McTavish / Sherbrooke,45.50281282,-73.57602417,TRUE,None
