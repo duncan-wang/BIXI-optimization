@@ -1,6 +1,9 @@
 # BIXI-optimization
 
 ### Route optimization for bike rebalancing within the BIXI bike-sharing system
+
+Published in Towards Data Science: https://towardsdatascience.com/a-mixed-integer-optimization-approach-to-rebalancing-a-bike-sharing-system-48d5ad0898bd
+
  
 Project Contributors: Tiancheng Zhang, Becky Zhou, Hanna Swail, & Duncan Wang 
 
